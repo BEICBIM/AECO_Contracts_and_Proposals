@@ -1,2 +1,2 @@
-##A/E/C/O Contracts and Proposals
-A library of open source contracts and proposals for architects, engineers, contractors and owner.
+##BEIC Execution Agreements
+A library of open source proposals an contracts for architects, engineers, contractors and owners.
