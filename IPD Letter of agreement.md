@@ -7,7 +7,7 @@ Parties to the contract:
 
 |**Other**|**Other**|**Other**|
 |---|---|---|
-|Company<br>Address<br>Address|Company<br>Address<br>Address|Company<br>Address<br>Address|
+|Company<br>Address L1<br>Address L2|Company<br>Address L1<br>Address L2|Company<br>Address L1<br>Address L2|
 
 
 Date of original execution: MM-DD.YYYY
