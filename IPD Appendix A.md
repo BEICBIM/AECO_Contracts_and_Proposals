@@ -20,7 +20,6 @@ Signature　　　　　　　Representative’s name　　　　　　　　　
 
 ---
 
-<br>
 **Constructor**
 Signature　　　　　　　Representative’s name　　　　　　　　　Date
 
