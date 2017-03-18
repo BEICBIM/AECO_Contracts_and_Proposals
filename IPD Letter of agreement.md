@@ -3,14 +3,14 @@ Parties to the contract:
 
 |**Owner**<br>|**Constructor**|**Designer**|
 |---|---|---|
-|Company<br>Address<br>Address|Company<br>Address<br>Address|Company<br>Company<br>Company|
+|Company<br>Address L1<br>Address L2|Company<br>Address L1<br>Address L2|Company<br>Address L1<br>Adress L2|
 
 |**Other**|**Other**|**Other**|
 |---|---|---|
 |Company<br>Address<br>Address|Company<br>Address<br>Address|Company<br>Address<br>Address|
 
 
-Date of original execution: 11-30.2015
+Date of original execution: MM-DD.YYYY
 
 #### **Agreement**
 
