@@ -15,7 +15,6 @@
 Signature　　　　　　　Representative’s name　　　　　　　　　Date
 
 ---
-<br>
 **Designer**
 Signature　　　　　　　Representative’s name　　　　　　　　　Date
 
