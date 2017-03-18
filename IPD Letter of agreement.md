@@ -1,9 +1,9 @@
 ### **Integrated Letter of Agreement**
 Parties to the contract:
 
-|**Client**<br>|**General Contractor**|**Architectural Services**|
+|**Owner**<br>|**Constructor**|**Designer**|
 |---|---|---|
-|Company<br>Address<br>Address|Company<br>Address<br>Address|Boiled Architecture (BA)<br>225 Naylor Street<br>San Francisco, CA 94112|
+|Company<br>Address<br>Address|Company<br>Address<br>Address|Company<br>Company<br>Company|
 
 |**Other**|**Other**|**Other**|
 |---|---|---|
