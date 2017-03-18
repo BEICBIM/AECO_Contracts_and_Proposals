@@ -11,18 +11,18 @@
 <br>
 <br>
 
-**Client**
+**Owner**
 Signature　　　　　　　Representative’s name　　　　　　　　　Date
 
 ---
 <br>
-**Architect**
+**Designer**
 Signature　　　　　　　Representative’s name　　　　　　　　　Date
 
 ---
 
 <br>
-**General Contractor**
+**Constructor**
 Signature　　　　　　　Representative’s name　　　　　　　　　Date
 
 ---
